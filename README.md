@@ -1,6 +1,8 @@
-# ts-cheat-sheet
-Шпаргалка по typescript, сделанная при помощи DeepSeek, на основе этой статьи:
-https://habr.com/ru/articles/938860/
+### Шпаргалка по typescript
+
+ Сделана при помощи DeepSeek, на основе этой ***[статьи](https://habr.com/ru/articles/938860/ "Работа с индексными членами в TypeScript")***.
+ 
+---
 
 ### 1. Object, Array, Tuple
 - **`object`**: Тип только для объектов (не примитивов). Более строгий, чем `Object`.
