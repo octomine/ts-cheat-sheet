@@ -1,6 +1,6 @@
 ### Шпаргалка по typescript
 
- Сделана при помощи DeepSeek, на основе этой ***[статьи](https://habr.com/ru/articles/938860/ "Работа с индексными членами в TypeScript")***.
+ Сделана при помощи DeepSeek, на основе этой статьи: ***["Работа с индексными членами в TypeScript"](https://habr.com/ru/articles/938860/)***.
  
 ---
 
