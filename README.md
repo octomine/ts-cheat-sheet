@@ -1,4 +1,4 @@
-### Шпаргалка по typescript
+### Краткий справочник по TypeScript
 
  Сделана при помощи DeepSeek, на основе этой статьи: **["Работа с индексными членами в TypeScript"](https://habr.com/ru/articles/938860/)**.
  
