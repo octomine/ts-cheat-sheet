@@ -1,6 +1,6 @@
 ### Краткий справочник по TypeScript
 
- Сделан при помощи DeepSeek, на основе этой статьи: **["Работа с индексными членами в TypeScript"](https://habr.com/ru/articles/938860/)**.
+ Источник: **["Работа с индексными членами в TypeScript"](https://habr.com/ru/articles/938860/)**.
  
 ---
 
